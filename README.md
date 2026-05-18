@@ -1,8 +1,8 @@
-# [BHeri GPT](https://abhishekraje2004.github.io/BHeriGPT/)
+# [BHeri GPT](https://www.bheri.in/BHERIGPT)
 ## A Large-Scale Movement Dataset of Daily Activities in the Indian Context
 ### **Abstract**
 
- We present BHeriGPT, a high-fidelity movement dataset of daily activities performed by Indians. The dataset consists of 16 subjects performing various activities, including domestic chores, exercises, and yoga postures. We provide pose estimation metrics extracted from state-of-the-art pose estimation models like motionagformer, mhformer, poseformerv2, and mediapipe on this dataset, evaluated across 4 camera viewing angles, along with segment length errors relative to the ground truth. We also provide the SMPL- style representation for our dataset processed obtained using the motion-capture system as support for this work We believe this dataset can have a significant impact in the fields of robotics, computer vision, and personalized rehabilitation technology by providing biomechanically grounded human movement sequences. 
+We present BHeriGPT, a high-fidelity movement dataset of daily activities performed by Indians. The dataset consists of 16 subjects performing various activities, including domestic chores, exercises, and yoga postures. We provide pose estimation metrics extracted from state-of-the-art pose estimation models like motionagformer, mhformer, poseformerv2, and mediapipe on this dataset, evaluated across 4 camera viewing angles, along with segment length errors relative to the ground truth. We also provide the SMPL- style representation for our dataset processed obtained using the motion-capture system as support for this work We believe this dataset can have a significant impact in the fields of robotics, computer vision, and personalized rehabilitation technology by providing biomechanically grounded human movement sequences. 
 
 ### **Data Format**
 
