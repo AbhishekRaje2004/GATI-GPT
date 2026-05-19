@@ -9,7 +9,7 @@
 
 ### **Abstract**
 
-We present GATI-GPT (Gait and Temporal Intelligence GPT), a high-fidelity movement dataset of daily activities performed by Indian subjects. The dataset consists of 16 subjects performing various activities, including domestic chores, exercises, and yoga postures. We provide pose estimation metrics extracted from state-of-the-art pose estimation models—such as MotionAGFormer, MHFormer, PoseFormerV2, and MediaPipe—evaluated across four camera viewing angles, along with pose and velocity estimation errors relative to the ground truth. We also provide the SMPL-style representations for our dataset, obtained using a motion-capture system, to support this work. We believe this dataset can have a significant impact on the fields of robotics, computer vision, and personalized rehabilitation technology by providing biomechanically grounded human movement sequences.
+We present GATI-GPT (Gait and Temporal Intelligence GPT), a high-fidelity movement dataset of daily activities performed by Indian subjects. The dataset consists of 16 subjects performing various activities, including domestic chores, exercises, and yoga postures. We provide pose estimation metrics extracted from state-of-the-art pose estimation models, such as MotionAGFormer, MHFormer, PoseFormerV2, and MediaPipe, evaluated across four camera viewing angles, along with pose and velocity estimation errors relative to the ground truth. We also provide the SMPL-style representations for our dataset, obtained using a motion-capture system, to support this work. We believe this dataset can have a significant impact on the fields of robotics, computer vision, and personalized rehabilitation technology by providing biomechanically grounded human movement sequences.
 
 ---
 
