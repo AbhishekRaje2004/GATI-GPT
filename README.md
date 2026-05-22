@@ -45,6 +45,4 @@ The full dataset consisting of the pose estimates, errors, and SMPL parameters c
 </p>
 
 ### **Liscense**
-This work is licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
-
-The datset makes use of SMPL , Mosh++, PyTorch3D each having their own liscence.
+This Dataset is licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).The datset is processed using SMPL , Mosh++ and PyTorch3D each having their own liscence.
