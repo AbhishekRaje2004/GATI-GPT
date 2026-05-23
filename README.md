@@ -27,7 +27,7 @@ The high-frequency motion-capture data, consisting of 43 optical markers is proc
 ---
 
 ### **Download the Dataset**
-The full dataset consisting of the pose estimates, errors, and SMPL parameters can be downloaded [[here]()]
+The full dataset consisting of the pose estimates, errors, and SMPL parameters can be downloaded [[here](https://zenodo.org/records/20339978)]
 
 ---
 
